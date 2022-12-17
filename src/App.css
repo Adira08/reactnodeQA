@@ -1,0 +1,17 @@
+h1{
+  background-color: yellow;
+  text-decoration: underline;
+  padding-left: 1%;
+}
+.answer{
+  background-color: aquamarine;
+}
+.small{
+  display: flex;
+  justify-content: space-around;
+}
+.small div {
+  width: 45%;
+  height: auto;
+  margin: 2%;
+}
